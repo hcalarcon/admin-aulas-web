@@ -1,0 +1,9 @@
+{
+  "background_color": "#c001f5",
+  "display": "standalone",
+  "lang": "en",
+  "name": "adminAulas",
+  "short_name": "adminAulas",
+  "start_url": "/?utm_source=web_app_manifest",
+  "orientation": "portrait"
+}

@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/static/js/main.cb595a96.js",
+    "static/js/404.7bc408c2.js": "/static/js/404.7bc408c2.js",
+    "static/media/MaterialDesignIcons.ttf": "/static/media/MaterialDesignIcons.1fcc36272ea3e53d0031.ttf",
+    "static/media/MaterialCommunityIcons.ttf": "/static/media/MaterialCommunityIcons.5d42b4e60858731e7b65.ttf",
+    "static/media/errorImagen.png": "/static/media/errorImagen.a23f855f5c97c01c10ea.png",
+    "static/media/Ionicons.ttf": "/static/media/Ionicons.9b6b1954a5eb6efeaf11.ttf",
+    "static/media/Feather.ttf": "/static/media/Feather.0f5d9cede2e831f3fc80.ttf",
+    "favicon.ico": "/favicon.ico",
+    "index.html": "/index.html",
+    "favicon-32.png": "/favicon-32.png",
+    "favicon-16.png": "/favicon-16.png",
+    "manifest.json": "/manifest.json",
+    "serve.json": "/serve.json",
+    "main.cb595a96.js.map": "/static/js/main.cb595a96.js.map",
+    "404.7bc408c2.js.map": "/static/js/404.7bc408c2.js.map"
+  },
+  "entrypoints": [
+    "static/js/404.7bc408c2.js",
+    "static/js/main.cb595a96.js"
+  ]
+}
